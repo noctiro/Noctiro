@@ -1,4 +1,6 @@
+# ObcbO
 ### Hi there 👋
+[![Gmail Badge](https://img.shields.io/badge/-m17089494917@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m17089494917@163.com)](mailto:m17089494917@163.com)
 
 ![info](https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
