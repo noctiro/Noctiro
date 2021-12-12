@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![obcbo.netlify.app](https://img.shields.io/badge/BLOG-ObcbOの窝-blue)](https://obcbo.netlify.app)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ![info](https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
