@@ -8,6 +8,8 @@
 - **MY WEBSITE <https://obcbo.netlify.app/>**
 - ⚒️ Java, node-js
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: QQ:1665807109 EMAIL:m17089494917@163.com
+- 📫 How to reach me: 
+     - QQ:1665807109 
+     - EMAIL:m17089494917@163.com
 - 😄 Pronouns: Tokit
 - ⚡ Fun fact: Theory is when you know everything but nothing works.Practice is when everything works but no one knows why.In our lab, theory and practice are combined:nothing works and no one knows why.
