@@ -6,6 +6,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 **MY WEBSITE <https://obcbo.vercel.app/>**
+Because of the exam, so the blog temporarily stop updating
 
 - ⚒️ Java, Kotlin, Node-js
 - 🌱 I’m currently learning Java and Kotlin</a>
