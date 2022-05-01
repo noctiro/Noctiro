@@ -13,6 +13,6 @@ Because of the exam, so the blog temporarily stop updating
 
 ### Learning and using
 
-[![java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)](https://java.com/) , [![nodejs](https://img.shields.io/badge/-Node.js-success?style=flat-square&logo=Node.js)](https://nodejs.org/) , [![electronjs](https://img.shields.io/badge/-Electron-lightgray?style=flat-square&color=2f3242&logoColor=9de6f5&logo=electron)](https://www.electronjs.org/) , [![kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin&color=a82daa)](https://kotlinlang.org/)
+[![java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)](https://java.com/) , [![nodejs](https://img.shields.io/badge/-Node.js-success?style=flat-square&logo=Node.js)](https://nodejs.org/) , [![kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin&color=a82daa)](https://kotlinlang.org/)
 
 - - -
