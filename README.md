@@ -8,7 +8,7 @@
 
 - 🎈 A middle school student
 - 🌱 My blog: <https://obcbo.vercel.app/>
-  > Because of the exam, so the blog temporarily stop updating
+  > Because of the senior high school entrance examination, so the blog temporarily stop updating
 
 ### Learning and using
 
