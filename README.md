@@ -6,7 +6,7 @@
 
 - 🎈 A middle school student
 - 🌱 My blog: <https://obcbo.vercel.app/>
-  > Because of preparing for the senior high school entrance examination, so the blog temporarily stop updating
+  > Watting......
 
 ### Learning and using
 
