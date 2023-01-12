@@ -1,6 +1,6 @@
 ## Hey Guys! 👋
 
-[![obcbo.tk](https://img.shields.io/badge/BLOG-ObcbOの窝-blue?style=flat-square&logo=hexo)](https://obcbo.vercel.app/) [![manjaro](https://img.shields.io/badge/OS-Manjaro-succeed.svg?style=flat-square&logo=manjaro)](https://manjaro.org/) [![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![obcbo.netlify.app](https://img.shields.io/badge/BLOG-ObcbOの窝-blue?style=flat-square&logo=hexo)](https://obcbo.netlify.app/) [![manjaro](https://img.shields.io/badge/OS-Manjaro-succeed.svg?style=flat-square&logo=manjaro)](https://manjaro.org/) [![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
 
