@@ -5,8 +5,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=default_repocard" align="right" />
 
 - 🎈 A middle school student
-- 🌱 My blog: <https://obcbo.vercel.app/>
-  > Watting......
+- 🟩 Often develops plugins related to Minecraft
+- 🌱 My blog: <https://obcbo.netlify.app/>
+  > Coming Soon
 
 ### Learning and using
 
