@@ -5,7 +5,7 @@
 [![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ObcbO&show_icons=true&count_private=true&hide=prs&theme=vue" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Noctiro&show_icons=true&count_private=true&hide=prs&theme=vue" align="right" />
 
 - 🏫 A passionate middle school student who loves coding
 - 🎮 Introduced to programming through Minecraft
