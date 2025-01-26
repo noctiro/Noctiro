@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-[![obcbo.netlify.app](https://img.shields.io/badge/BLOG-ObcbO%E3%81%AE%E7%AA%9D-blue?style=flat-square&logo=hexo&logoColor=white)](https://obcbo.netlify.app/)
+[![www.noctiro.moe](https://img.shields.io/badge/BLOG-Noctiro's%20Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://www.noctiro.moe/)
 [![manjaro](https://img.shields.io/badge/OS-Manjaro-succeed.svg?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
@@ -9,8 +9,7 @@
 
 - 🏫 A passionate middle school student who loves coding
 - 🎮 Introduced to programming through Minecraft
-- 📚 My blog: <https://obcbo.netlify.app/>
-  > Coming...
+- 📚 My blog: <https://www.noctiro.moe/>
 
 ### Skills and Technologies
 
