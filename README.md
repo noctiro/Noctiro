@@ -9,7 +9,7 @@
 
 - 🏫 A passionate middle school student who loves coding
 - 🎮 Introduced to programming through Minecraft
-- 📚 My blog: <https://www.noctiro.moe/>
+- 📚 My website: <https://www.noctiro.moe/>
 
 ### Skills and Technologies
 
