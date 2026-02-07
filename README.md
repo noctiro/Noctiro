@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-[![www.noctiro.moe](https://img.shields.io/badge/BLOG-Noctiro's%20Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://www.noctiro.moe/)
+[![blog.noctiro.moe](https://img.shields.io/badge/BLOG-Noctiro's%20Blog-blue?style=flat-square&logo=hexo&logoColor=white)](https://blog.noctiro.moe/)
 [![arch](https://img.shields.io/badge/OS-Arch-blue.svg?style=flat-square&logo=archlinux)](https://archlinux.org/)
 [![vscode](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
