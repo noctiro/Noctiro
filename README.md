@@ -7,8 +7,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Noctiro&show_icons=true&count_private=true&hide=prs&theme=vue" align="right" />
 
-- 🏫 A passionate middle school student who loves coding
-- 🎮 Introduced to programming through Minecraft
 - 📚 My website: <https://www.noctiro.moe/>
 
 ### Skills and Technologies
